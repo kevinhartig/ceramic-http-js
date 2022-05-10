@@ -2,10 +2,10 @@
 https://developers.ceramic.network/ \
 Requires running a Ceramic daemon to store DIDs.\
 This code uses the Ceramic CLI tools to start a daemon on the local host on port 7007\
-$ ceramic daemon\
+$ ceramic daemon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-It starts a server on localhost:3000 to access the app.\
+It starts a server on localhost:3000 to access the app.
 
 ## Available Scripts
 
